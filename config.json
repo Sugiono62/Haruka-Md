@@ -5,7 +5,7 @@
     "botName": "Dora Bot",
     "footer": "Dora Bot",
     "sessionName": "session",
-    "pathimg": "./media/Download.jpg",
+    "pathimg": "./media/download.jpeg",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
